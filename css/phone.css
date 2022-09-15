@@ -1,0 +1,35 @@
+#navBar{
+    flex-direction: column;
+}
+#navBar ul{
+    padding-bottom: 15px;
+}
+#navBar ul li a {
+    font-size: 1rem;
+    padding: 1px 10px;
+
+}
+
+/*SERVICES SECTION*/
+#services{
+    /* background-color: red; */
+    flex-direction: column;
+}
+#services .box img{
+    height: 130px;
+    display: block;
+    margin: auto;
+}
+
+
+/* CLIENTS SECTION*/
+#clients{
+    flex-wrap: wrap;
+}
+#clients img{
+    margin-left: 20px;
+    margin-right: 20px;
+    height: 100px;
+    width: 100px;
+}
+
